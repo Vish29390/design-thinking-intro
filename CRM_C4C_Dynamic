@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T19:51:17.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" version="20.8.23" etag="F33Nj7ekw9Atalj1OwlE" type="github"><diagram name="Page-1" id="iq57i9_a02dzC11Eoj0h">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-07T18:26:46.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="6wow7sc48AsNDOpd-3om" version="20.8.23" type="github">
+  <diagram name="Page-1" id="iq57i9_a02dzC11Eoj0h">
+    <mxGraphModel dx="1354" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-1" value="Microsoft" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="103" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-3" value="CDW Team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="103" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-4" value="CRM C4C" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="103" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-5" value="Architect" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="93" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-6" value="LENS" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="103" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-7" value="CRM Integration &lt;br&gt;to &lt;br&gt;HG Landscape" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="103" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-12" value="SSIS - LENS" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+          <mxGeometry x="480" y="237" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-13" value="Dynamic 365" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+          <mxGeometry x="480" y="380" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-14" value="C4C" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+          <mxGeometry x="250" y="550" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-15" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+          <mxGeometry x="520" y="559" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-16" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+          <mxGeometry x="640" y="550" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-17" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/other/Storage_Tasks.svg;" vertex="1" parent="1">
+          <mxGeometry x="391" y="540" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-18" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+          <mxGeometry x="750" y="549.5" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OHZTcN0yMYDtkQqvwTfP-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="264" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-26" value="CDW - DEV&lt;br&gt;Opportunities&lt;br&gt;Account" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="1">
+          <mxGeometry x="67.19999999999999" y="230" width="62.8" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OHZTcN0yMYDtkQqvwTfP-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="263.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-32" value="GOLD" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Databricks.svg;" vertex="1" parent="1">
+          <mxGeometry x="190" y="239.5" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-35" value="Azure Synapse&amp;nbsp;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;" vertex="1" parent="1">
+          <mxGeometry x="650" y="371.5" width="50" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OHZTcN0yMYDtkQqvwTfP-36" target="OHZTcN0yMYDtkQqvwTfP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OHZTcN0yMYDtkQqvwTfP-36" target="OHZTcN0yMYDtkQqvwTfP-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-40" value="Dataverse" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OHZTcN0yMYDtkQqvwTfP-39">
+          <mxGeometry x="0.5277" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-36" value="ADF - &lt;br&gt;SQL Table" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" vertex="1" parent="1">
+          <mxGeometry x="320" y="243" width="37" height="37" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
