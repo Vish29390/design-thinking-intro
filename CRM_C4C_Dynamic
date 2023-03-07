@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T18:46:23.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="icWu6odVRr-ZWh08mGHT" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T18:53:35.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="ia-RZ1m-7nlnShcnD--U" version="20.8.23" type="github">
   <diagram name="Page-1" id="iq57i9_a02dzC11Eoj0h">
     <mxGraphModel dx="1354" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OHZTcN0yMYDtkQqvwTfP-1" value="Microsoft" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="103" width="30" height="60" as="geometry" />
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-1" value="Microsoft&lt;br&gt;Thomas&lt;br&gt;working on Unity Catalog - connection" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="39" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-3" value="CDW Team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="395" y="103" width="30" height="60" as="geometry" />
+          <mxGeometry x="395" y="39" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-4" value="CRM C4C" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="103" width="30" height="60" as="geometry" />
+          <mxGeometry x="260" y="39" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-5" value="Architect" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="93" width="30" height="60" as="geometry" />
+          <mxGeometry x="520" y="29" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-6" value="LENS" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="103" width="30" height="60" as="geometry" />
+          <mxGeometry x="630" y="39" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-7" value="CRM Integration &lt;br&gt;to &lt;br&gt;HG Landscape" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="103" width="30" height="60" as="geometry" />
+          <mxGeometry x="750" y="39" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-12" value="SSIS - LENS" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
           <mxGeometry x="750" y="244.5" width="50" height="49" as="geometry" />
@@ -33,11 +33,11 @@
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OHZTcN0yMYDtkQqvwTfP-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="504.5" as="targetPoint" />
+            <mxPoint x="230" y="520.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-15" value="EDW Views" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
-          <mxGeometry x="73.60000000000002" y="480" width="50" height="49" as="geometry" />
+          <mxGeometry x="73.60000000000002" y="496" width="50" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-16" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
           <mxGeometry x="640" y="550" width="50" height="49" as="geometry" />
@@ -50,17 +50,17 @@
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OHZTcN0yMYDtkQqvwTfP-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="264" as="targetPoint" />
+            <mxPoint x="180" y="221" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-26" value="CDW - DEV&lt;br&gt;Opportunities&lt;br&gt;Account" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="1">
-          <mxGeometry x="67.19999999999999" y="230" width="62.8" height="68" as="geometry" />
+          <mxGeometry x="67.19999999999999" y="187" width="62.8" height="68" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OHZTcN0yMYDtkQqvwTfP-32" target="OHZTcN0yMYDtkQqvwTfP-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-32" value="GOLD" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Databricks.svg;" vertex="1" parent="1">
-          <mxGeometry x="190" y="239.5" width="50" height="48" as="geometry" />
+          <mxGeometry x="190" y="196.5" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OHZTcN0yMYDtkQqvwTfP-36" target="OHZTcN0yMYDtkQqvwTfP-12">
           <mxGeometry relative="1" as="geometry" />
@@ -80,38 +80,35 @@
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-36" value="ADF - &lt;br&gt;SQL Table" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" vertex="1" parent="1">
           <mxGeometry x="603" y="250.5" width="37" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="OHZTcN0yMYDtkQqvwTfP-54" value="SSIS converted to &lt;br&gt;PySpark Notebook" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OHZTcN0yMYDtkQqvwTfP-41">
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-54" value="SSIS converted to &lt;br&gt;PySpark Notebook" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OHZTcN0yMYDtkQqvwTfP-41" target="OHZTcN0yMYDtkQqvwTfP-48">
           <mxGeometry x="-0.0619" y="1" relative="1" as="geometry">
-            <mxPoint x="349.5" y="350" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="350" y="320" />
-              <mxPoint x="350" y="320" />
-            </Array>
+            <mxPoint x="349.5" y="307" as="targetPoint" />
+            <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OHZTcN0yMYDtkQqvwTfP-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-unity-128.png" vertex="1" parent="1">
-          <mxGeometry x="320" y="234.5" width="59" height="59" as="geometry" />
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-41" value="Unity Catalog" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-unity-128.png" vertex="1" parent="1">
+          <mxGeometry x="320" y="191.5" width="59" height="59" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-47" value="SSIS - LENS" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
-          <mxGeometry x="230" y="480" width="50" height="49" as="geometry" />
+          <mxGeometry x="230" y="496" width="50" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.08;entryY=0.669;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OHZTcN0yMYDtkQqvwTfP-48" target="OHZTcN0yMYDtkQqvwTfP-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-48" value="Synapse -pipeline" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;" vertex="1" parent="1">
-          <mxGeometry x="320" y="359.5" width="60" height="69" as="geometry" />
+          <mxGeometry x="320" y="369" width="60" height="69" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OHZTcN0yMYDtkQqvwTfP-50" target="OHZTcN0yMYDtkQqvwTfP-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="550" y="385" />
+              <mxPoint x="550" y="400" />
               <mxPoint x="550" y="269" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-50" value="Azure Storage" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="1">
-          <mxGeometry x="470" y="359.5" width="50" height="50" as="geometry" />
+          <mxGeometry x="470" y="369.5" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
