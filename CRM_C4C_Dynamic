@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T18:53:35.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="ia-RZ1m-7nlnShcnD--U" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T18:54:56.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="TxcwN6nBd01pZhlg6gO9" version="20.8.23" type="github">
   <diagram name="Page-1" id="iq57i9_a02dzC11Eoj0h">
     <mxGraphModel dx="1354" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-5" value="Architect" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="29" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OHZTcN0yMYDtkQqvwTfP-6" value="LENS" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-6" value="LENS&lt;br&gt;Kannan" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="39" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-7" value="CRM Integration &lt;br&gt;to &lt;br&gt;HG Landscape" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -28,10 +28,7 @@
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-13" value="Dynamic 365" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
           <mxGeometry x="750" y="369.5" width="50" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="OHZTcN0yMYDtkQqvwTfP-14" value="C4C" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
-          <mxGeometry x="250" y="590" width="50" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OHZTcN0yMYDtkQqvwTfP-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OHZTcN0yMYDtkQqvwTfP-15">
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-46" value="SSIS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OHZTcN0yMYDtkQqvwTfP-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="520.5" as="targetPoint" />
           </mxGeometry>
@@ -42,7 +39,7 @@
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-16" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
           <mxGeometry x="640" y="550" width="50" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="OHZTcN0yMYDtkQqvwTfP-17" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/other/Storage_Tasks.svg;" vertex="1" parent="1">
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-17" value="storage" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/other/Storage_Tasks.svg;" vertex="1" parent="1">
           <mxGeometry x="391" y="571" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-18" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
@@ -90,7 +87,7 @@
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-41" value="Unity Catalog" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-unity-128.png" vertex="1" parent="1">
           <mxGeometry x="320" y="191.5" width="59" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="OHZTcN0yMYDtkQqvwTfP-47" value="SSIS - LENS" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-47" value="LENS" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
           <mxGeometry x="230" y="496" width="50" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.08;entryY=0.669;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OHZTcN0yMYDtkQqvwTfP-48" target="OHZTcN0yMYDtkQqvwTfP-50">
