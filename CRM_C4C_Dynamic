@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T04:59:08.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="xsE2u26HvwLQFBVsxqxB" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T16:58:04.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="lhqxfgRm1klEdUYgMB9H" version="20.8.23" type="github">
   <diagram name="Page-1" id="iq57i9_a02dzC11Eoj0h">
     <mxGraphModel dx="1128" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-1" value="Microsoft&lt;br&gt;Thomas&lt;br&gt;working on &lt;br&gt;Unity Catalog - connection" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="20" width="30" height="60" as="geometry" />
+          <mxGeometry x="58" y="20" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-3" value="CRM &lt;br&gt;Databricks Team&lt;br&gt;Shakti Prasad&lt;br&gt;Md. Aarif" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="20" width="30" height="60" as="geometry" />
+          <mxGeometry x="240" y="20" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-4" value="CRM C4C&lt;br&gt;no representation" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="20" width="30" height="60" as="geometry" />
+          <mxGeometry x="144" y="20" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-5" value="Architect" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="20" width="30" height="60" as="geometry" />
+          <mxGeometry x="309" y="20" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-6" value="LENS&lt;br&gt;Kannan" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="20" width="30" height="60" as="geometry" />
+          <mxGeometry x="532" y="20" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-7" value="CRM Integration &lt;br&gt;to &lt;br&gt;HG Landscape" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="573" y="20" width="30" height="60" as="geometry" />
+          <mxGeometry x="602" y="20" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-12" value="&amp;nbsp;LENS" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
           <mxGeometry x="750" y="244.5" width="50" height="49" as="geometry" />
@@ -88,10 +88,10 @@
           <mxGeometry x="470" y="369.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-68" value="MDM&lt;br&gt;Sunil Veludandi&lt;br&gt;Bijay Kapali" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="662" y="20" width="30" height="60" as="geometry" />
+          <mxGeometry x="699" y="20" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-69" value="&amp;nbsp;CRM Azure&lt;br&gt;Seema Yadav&lt;br&gt;Ashok&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="20" width="30" height="60" as="geometry" />
+          <mxGeometry x="785" y="20" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-75" value="Future State" style="swimlane;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="310" y="500" width="520" height="160" as="geometry">
@@ -130,6 +130,12 @@
         </mxCell>
         <mxCell id="OHZTcN0yMYDtkQqvwTfP-83" value="LENS" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="OHZTcN0yMYDtkQqvwTfP-66">
           <mxGeometry x="176.4" y="30.5" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-86" value="CDW&lt;br&gt;Databricks Team&lt;br&gt;Mirdula P&lt;br&gt;Preeti Ghag" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="379.5" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHZTcN0yMYDtkQqvwTfP-89" value="&amp;nbsp; Dynamics 365" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="20" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
