@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T06:35:02.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="YGr0MYlk5u5LRShZQc4K" version="21.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-17T16:10:58.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="dYktlLmc31xIONruud6w" version="21.1.1" type="github" pages="3">
   <diagram name="Page-1" id="iq57i9_a02dzC11Eoj0h">
     <mxGraphModel dx="957" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -427,6 +427,20 @@
         </mxCell>
         <mxCell id="N_QXy8r8eii4hoLIvEaw-40" value="on-Prem&lt;br&gt;SQL Server" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="N_QXy8r8eii4hoLIvEaw-1">
           <mxGeometry x="310" y="924.5" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="yIsD1a9CrDXq714fJOwF-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N_QXy8r8eii4hoLIvEaw-1" source="N_QXy8r8eii4hoLIvEaw-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520.0000000000002" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="160" />
+              <mxPoint x="520" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yIsD1a9CrDXq714fJOwF-1" value="update last pull date&lt;br&gt;and status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yIsD1a9CrDXq714fJOwF-0">
+          <mxGeometry x="0.3256" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="N_QXy8r8eii4hoLIvEaw-44" value="Dynamic 365" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="N_QXy8r8eii4hoLIvEaw-1">
           <mxGeometry x="735" y="180" width="50" height="49" as="geometry" />
