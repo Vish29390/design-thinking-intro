@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T16:10:58.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="dYktlLmc31xIONruud6w" version="21.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-17T21:14:06.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="eSIcvSz-xocxhZsI_g0_" version="21.1.1" type="github" pages="4">
   <diagram name="Page-1" id="iq57i9_a02dzC11Eoj0h">
     <mxGraphModel dx="957" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -610,6 +610,94 @@
         </mxCell>
         <mxCell id="m4lV8MyamYJXucz0OQDS-56" value="&lt;h6&gt;&lt;font color=&quot;#66b2ff&quot; face=&quot;Verdana&quot;&gt;PEAR to PE (Private Equity) &lt;span&gt;Nextwave&lt;/span&gt;&lt;/font&gt;&lt;/h6&gt;&lt;span&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="290" y="30" width="150" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HccJlZQjLHlcUKkPf1_o" name="Delta_pipeline">
+    <mxGraphModel dx="895" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wAUkavxgW-9WRBqlvXl6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wAUkavxgW-9WRBqlvXl6-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520.0000000000002" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="160" />
+              <mxPoint x="520" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wAUkavxgW-9WRBqlvXl6-2" value="update last pull date&lt;br&gt;and status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wAUkavxgW-9WRBqlvXl6-1">
+          <mxGeometry x="0.3256" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wAUkavxgW-9WRBqlvXl6-3" value="Dynamic 365" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+          <mxGeometry x="735" y="180" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wAUkavxgW-9WRBqlvXl6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wAUkavxgW-9WRBqlvXl6-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="221" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wAUkavxgW-9WRBqlvXl6-5" value="CDW QA1&lt;br&gt;Opportunity&lt;br&gt;tables" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="1">
+          <mxGeometry x="58.999999999999986" y="187" width="62.8" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="wAUkavxgW-9WRBqlvXl6-6" value="GOLD" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Databricks.svg;" vertex="1" parent="1">
+          <mxGeometry x="160" y="196.5" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="wAUkavxgW-9WRBqlvXl6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="wAUkavxgW-9WRBqlvXl6-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="548" y="215" />
+              <mxPoint x="660" y="215" />
+            </Array>
+            <mxPoint x="520" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wAUkavxgW-9WRBqlvXl6-8" value="&lt;b&gt;Dataverse&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wAUkavxgW-9WRBqlvXl6-7">
+          <mxGeometry x="0.3806" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wAUkavxgW-9WRBqlvXl6-9" value="&lt;b&gt;Out Tables&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wAUkavxgW-9WRBqlvXl6-7">
+          <mxGeometry x="-0.4508" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wAUkavxgW-9WRBqlvXl6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.035;entryY=0.594;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wAUkavxgW-9WRBqlvXl6-11" target="wAUkavxgW-9WRBqlvXl6-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="221" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wAUkavxgW-9WRBqlvXl6-11" value="Unity &lt;br&gt;Catalog" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-unity-128.png" vertex="1" parent="1">
+          <mxGeometry x="240" y="191.5" width="59" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="wAUkavxgW-9WRBqlvXl6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wAUkavxgW-9WRBqlvXl6-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wAUkavxgW-9WRBqlvXl6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wAUkavxgW-9WRBqlvXl6-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wAUkavxgW-9WRBqlvXl6-14" value="use&amp;nbsp;&lt;br&gt;&lt;div style=&quot;background-color: rgb(250, 250, 250); font-family: &amp;quot;Source Code Pro&amp;quot;, Menlo, Consolas, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; line-height: 20px;&quot;&gt;edwiscurrentind &lt;span style=&quot;color: #0000ff;&quot;&gt;=&lt;/span&gt; true&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(250, 250, 250); font-family: &amp;quot;Source Code Pro&amp;quot;, Menlo, Consolas, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; line-height: 20px;&quot;&gt;EDWUpdatedDtm &lt;span style=&quot;color: #0000ff;&quot;&gt;&amp;gt;&lt;/span&gt;&amp;nbsp;&lt;font color=&quot;#c700c7&quot;&gt;last pull date millisec&lt;/font&gt;&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="1">
+          <mxGeometry x="350" y="30" width="62.8" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="wAUkavxgW-9WRBqlvXl6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wAUkavxgW-9WRBqlvXl6-15" target="wAUkavxgW-9WRBqlvXl6-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wAUkavxgW-9WRBqlvXl6-15" value="SQL ODS" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sql_workbench;" vertex="1" parent="1">
+          <mxGeometry x="490" y="191" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="wAUkavxgW-9WRBqlvXl6-16" value="use existing ODS schema make a copy of the opportunity tables under DELTA_INC" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
